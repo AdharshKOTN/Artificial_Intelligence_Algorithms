@@ -4,14 +4,15 @@ some search algorithms implemented in java
 This program is written in java and uses the Windows platform to run.
 
 Utilize the Windows command line to run this program with the following commands:
----------------------------------------------------
+---------------------------------------------------------
 To compile:
-
+-
 javac BWBar.java
 
 To run:
-
+-
 java BWBar -cost BFS input.txt
+
 ----------------------------------------------------------
 
 java BWBar [-cost] <BFS|DFS|UCS|GS|A-star> <inputfile>
